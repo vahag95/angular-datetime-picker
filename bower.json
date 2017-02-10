@@ -1,0 +1,28 @@
+{
+  "name": "angularjs-datetime-picker-v2",
+  "main": "angularjs-datetime-picker.js",
+  "version": "0.2.2",
+  "homepage": "https://github.com/mani-s17/angularjs-datetime-picker",
+  "authors": [
+    "Subramaniam Srinivasan <subramaniam.s17@gmail.com>"
+  ],
+  "description": "AngularJs Date / Datetime picker for your INPUT tag. This project is forked from https://github.com/kineticsocial/angularjs-datetime-picker an inactive project.",
+  "keywords": [
+    "Angular",
+    "Javascript",
+    "Date",
+    "Datetime",
+    "UI"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "angularjs-datetime-picker-v2",
+        "scope": null,
+        "escapedName": "angularjs-datetime-picker-v2",
+        "name": "angularjs-datetime-picker-v2",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/cretrix/projects/angular-datetime-picker"
+    ]
+  ],
+  "_from": "angularjs-datetime-picker-v2@latest",
+  "_id": "angularjs-datetime-picker-v2@0.2.2",
+  "_inCache": true,
+  "_location": "/angularjs-datetime-picker-v2",
+  "_nodeVersion": "5.11.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/angularjs-datetime-picker-v2-0.2.2.tgz_1485399512523_0.49886780767701566"
+  },
+  "_npmUser": {
+    "name": "subramaniam",
+    "email": "subramaniam.s17@gmail.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "angularjs-datetime-picker-v2",
+    "scope": null,
+    "escapedName": "angularjs-datetime-picker-v2",
+    "name": "angularjs-datetime-picker-v2",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/angularjs-datetime-picker-v2/-/angularjs-datetime-picker-v2-0.2.2.tgz",
+  "_shasum": "d390d8accf47530bd8dd292b504b29c120b8901e",
+  "_shrinkwrap": null,
+  "_spec": "angularjs-datetime-picker-v2",
+  "_where": "/home/cretrix/projects/angular-datetime-picker",
+  "author": {
+    "name": "Subramaniam Srinivasan",
+    "email": "subramaniam.s17@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mani-s17/angularjs-datetime-picker/issues"
+  },
+  "dependencies": {},
+  "description": "Very Lightweight AngularJS DateTime Picker Without Using jQuery, bootStrap, or moment",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-strip-debug": "^1.0.2",
+    "gulp-uglify": "^1.2.0",
+    "run-sequence": "^1.1.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "d390d8accf47530bd8dd292b504b29c120b8901e",
+    "tarball": "https://registry.npmjs.org/angularjs-datetime-picker-v2/-/angularjs-datetime-picker-v2-0.2.2.tgz"
+  },
+  "gitHead": "fb5044e842c2029941a3021406a64042c1c03077",
+  "homepage": "https://github.com/mani-s17/angularjs-datetime-picker",
+  "keywords": [
+    "angularjs",
+    "directive",
+    "date",
+    "datetime"
+  ],
+  "license": "MIT",
+  "main": "angularjs-datetime-picker.js",
+  "maintainers": [
+    {
+      "name": "subramaniam",
+      "email": "subramaniam.s17@gmail.com"
+    }
+  ],
+  "name": "angularjs-datetime-picker-v2",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mani-s17/angularjs-datetime-picker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.2"
+}
